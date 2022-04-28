@@ -12,7 +12,7 @@ Entregables:
 
    El proyecto deberá contenter:
 
--El programa realizado en Java
+- El programa realizado en Java
 
 - Capturas de pantalla funcionando
 
