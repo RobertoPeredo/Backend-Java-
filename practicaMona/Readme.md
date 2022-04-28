@@ -1,8 +1,10 @@
 ## Practica: Herencia y Polimorfismo.
 
-Para esta práctica es importante hayas revisado los lives correspondientes a herencia y polimorfismo. Ya que deberás modelar cuando menos 6 versiones de Mona The Octocat,
+<div style="text-align: right"> Para esta práctica es importante hayas revisado los lives correspondientes a herencia y polimorfismo. Ya que deberás modelar cuando menos 6 versiones de Mona The Octocat,
 quién tiene más versatilidad que la misma Barbie. EL desafio recae en el diseño, tendrás una clase que extiende de mona por cada personaje, en la cuál cada personaje 
-disfruta de realizar diferentes actividades.
+disfruta de realizar diferentes actividades. </div>
+
+
 
 Entregables:
 
