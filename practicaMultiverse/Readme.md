@@ -17,8 +17,9 @@ El proyecto deberá contenter:
 - Diagrama del programa con sus clases e interfaces
 
 
-A continuación, se muestra la práctica realizada con su respectivo diagrama. El código de la práctica se encuentra dentro de este mismo paquete.
-Ojo, en este proyecto se utilizó la librería imonsh la cual no está disponible públicamente. Esta librería es proporcionada por [Fernanda Ochoa](https://github.com/FernandaOchoa) (MC de la misón Java de LaunchX)
+A continuación, se muestra la práctica realizada con su respectivo diagrama.
+El código de la práctica se encuentra dentro de este mismo paquete.
+Ojo, en este proyecto se utilizó la librería imonsh, para poder realizar interfaces, la cual no está disponible públicamente. Esta librería es proporcionada por [Fernanda Ochoa](https://github.com/FernandaOchoa) (MC de la misón Java de LaunchX)
 
 
 - El Diagrama del programa con su clase y sus objetos se muestra a continuación:
