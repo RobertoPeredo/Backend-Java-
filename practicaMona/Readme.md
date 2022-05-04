@@ -19,3 +19,15 @@ Entregables:
 - Capturas de pantalla funcionando
 
 - Diagrama del programa con su clases.
+
+A continuación, se muestra la práctica realizada con su respectivo diagrama. El código de la práctica se encuentra dentro de este mismo paquete.
+
+
+- El Diagrama del programa con su clase y sus objetos se muestra a continuación:
+[Diagrama_practicaMona.pdf](https://github.com/RobertoPeredo/Backend-Java-/files/8617767/Diagrama_practicaMona.pdf)
+
+
+
+- Y el programa funcionando se ve de la siguiente forma:
+ ![practicaMona](https://user-images.githubusercontent.com/99369122/166620554-25898c34-3d6e-427b-b23c-7fd4d56dfa00.png)
+
