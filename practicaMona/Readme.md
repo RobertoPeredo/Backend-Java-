@@ -24,7 +24,8 @@ A continuación, se muestra la práctica realizada con su respectivo diagrama. E
 
 
 - El Diagrama del programa con su clase y sus objetos se muestra a continuación:
-[Diagrama_practicaMona.pdf](https://github.com/RobertoPeredo/Backend-Java-/files/8617767/Diagrama_practicaMona.pdf)
+![image](https://user-images.githubusercontent.com/99369122/166620595-c2ef2ac9-3af7-4891-981b-98247b09a727.png)
+
 
 
 
