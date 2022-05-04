@@ -5,13 +5,22 @@ Modelando personajes, esta práctica es relativamente sencilla. Simplemente debe
 
 Entregables:
 
+- Crear un repositorio llamado Backend Java en tu cuenta de GitHub.
+
+- Subir tu proyecto en un paquete llamado practicatarry
+
+ El proyecto deberá contener:
+
 - Programa realizado en Java
 - Capturas de pantalla funcionando
 - Diagrama del programa con su clase y sus 5 objetos definidos.
 
+A continuación, se muestra la práctica realizada con su respectivo diagrama, el código de la práctica se encuentra dentro de este mismo paquete.
+
 
 - El Diagrama del programa con su clase y sus objetos se muestra a continuación:
-![image](https://user-images.githubusercontent.com/99369122/166619856-39ae7054-825c-4d22-8332-a9cccb3eef57.png)
+![image](https://user-images.githubusercontent.com/99369122/166620095-4d372e49-9d07-456d-a8a9-b82d09fe9901.png)
+
 
 
 - Y el programa funcionando se ve de la siguiente forma:
