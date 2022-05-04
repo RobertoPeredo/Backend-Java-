@@ -45,6 +45,7 @@ Para poder ver mejor el funcionamiento de la práctica sin necesidad de estar de
 
 https://user-images.githubusercontent.com/99369122/166622281-3432b185-21a5-477a-af15-1f2d4ce475f3.mp4
 
+Por temas de derechos de autor no incluyo las canciones correspondientes de cada grupo, simplemente de manera didáctica agrego pequeñas pistas sin copyright
 
 
 
