@@ -15,7 +15,7 @@ Entregables:
 - Capturas de pantalla funcionando
 - Diagrama del programa con su clase y sus 5 objetos definidos.
 
-A continuación, se muestra la práctica realizada con su respectivo diagrama, el código de la práctica se encuentra dentro de este mismo paquete.
+A continuación, se muestra la práctica realizada con su respectivo diagrama. El código de la práctica se encuentra dentro de este mismo paquete.
 
 
 - El Diagrama del programa con su clase y sus objetos se muestra a continuación:
