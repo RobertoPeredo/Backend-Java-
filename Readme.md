@@ -11,4 +11,4 @@
 5. En el paquete llamado practicaLineUp, se pone en práctica el uso de Multihilos. Se diseña el line up de un concierto. Se debe contemplar la presentación de cada artista, canciones, imagen (video), etc.
 
 
-Dentro de cada paquete, se encuentra una explicación más detallada de cada una de las practicas, así mismo se encuentra el código de las prácticas, así como el funcionamiento del programa
+Dentro de cada paquete, se encuentra una explicación más detallada de cada una de las practicas, así mismo se encuentra el código de las prácticas, así como el funcionamiento del programa.
